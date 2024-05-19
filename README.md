@@ -1,6 +1,6 @@
 # Обо мне
 
-# ![] (https://i.postimg.cc/VsHJpTML/j-XGh-Z9-YNB-w-1.jpg)
+![мое фото] (https://i.postimg.cc/VsHJpTML/j-XGh-Z9-YNB-w-1.jpg)
 
 Меня зовут Алёна 
 34 года
